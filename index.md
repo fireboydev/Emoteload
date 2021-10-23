@@ -15,7 +15,7 @@ Vai, nem que seja só um pouquinho, vai, não seja mau, vai, só um pouquinho, s
 
 ### Conheça a Equipe
 - Davizin128 (Fundador)
-- FIRE BOY (Tester & Dev)
+- FIRE BOY (Tester & Dev) 
 
 
 © Copyright EmoteLoad 2021. Todos os direitos reservados. [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
