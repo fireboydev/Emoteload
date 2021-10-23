@@ -1,7 +1,7 @@
 ## EmoteLoad
 ### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**ENTRAR**]](https://discord.com/oauth2/authorize?client_id=817408987426455592&scope=bot%20applications.commands&permissions=2147483647)
 
-![image](https://cdn.discordapp.com/attachments/822621497272303698/901266472377147463/devdd.png)
+![image](https://cdn.discordapp.com/attachments/822621497272303698/901282019085008956/EL_500.png)
 
 Emoteload, um bot focado em adicionar emojis ao seu servidor de um jeito fácil, com apenas um comando, temos muitos emojis para você ter uma boa experiência com o bot.
 Adicione o bot ao seu servidor, coloque uns emojis, e inicia a festa. E ai? Bora lá?
