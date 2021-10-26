@@ -6,7 +6,7 @@
 Emoteload, um bot focado em adicionar emojis ao seu servidor de um jeito fácil, com apenas um comando, temos muitos emojis para você ter uma boa experiência com o bot.
 Adicione o bot ao seu servidor, coloque uns emojis, e inicia a festa. E ai? Bora lá?
 
-[Clique aqui para ver os emojis](https://fireboydev.github.me/emoteload-emojis)   
+[Clique aqui para ver os emojis](https://emojis.emoteload.ml)   
 [Servidor de suporte no Discord](https://discord.gg/v6Srh9fr)
 
 Vai, nem que seja só um pouquinho, vai, não seja mau, vai, só um pouquinho, siiim?
@@ -15,7 +15,7 @@ Vai, nem que seja só um pouquinho, vai, não seja mau, vai, só um pouquinho, s
 
 ### Conheça a Equipe
 - Davizin128 (Fundador)
-- FIRE BOY (Tester & Dev) 
+- FIRE BOY (Fundador) 
 
 
 © Copyright EmoteLoad 2021. Todos os direitos reservados. [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
