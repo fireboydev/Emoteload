@@ -1,5 +1,5 @@
-## EmoteLoad
-### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**ENTRAR**]](https://discord.com/oauth2/authorize?client_id=817408987426455592&scope=bot%20applications.commands&permissions=2147483647)
+## EmoteLoad PT-BR
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [[**CHANGE LANGUAGE**]](https://us.emoteload.ml)
 
 ![image](https://cdn.discordapp.com/attachments/822621497272303698/901282019085008956/EL_500.png)
 
